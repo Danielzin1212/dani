@@ -3,5 +3,8 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
+}
+
+body {
     background-color: rgb(240, 248, 255);
 }
